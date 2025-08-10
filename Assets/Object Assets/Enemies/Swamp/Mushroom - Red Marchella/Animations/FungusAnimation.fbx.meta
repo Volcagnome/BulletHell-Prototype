@@ -1,0 +1,2793 @@
+fileFormatVersion: 2
+guid: 120d6102c2cc7534b98d6a7822a7c823
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Chest
+  - first:
+      1: 100002
+    second: ForeLegLowerLeft
+  - first:
+      1: 100004
+    second: ForeLegLowerRight
+  - first:
+      1: 100006
+    second: ForeLegMidLeft
+  - first:
+      1: 100008
+    second: ForeLegMidRight
+  - first:
+      1: 100010
+    second: ForeLegUpperLeft
+  - first:
+      1: 100012
+    second: ForeLegUpperRight
+  - first:
+      1: 100014
+    second: //RootNode
+  - first:
+      1: 100016
+    second: FungusRig
+  - first:
+      1: 100018
+    second: Head
+  - first:
+      1: 100020
+    second: HindLegLowerLeft
+  - first:
+      1: 100022
+    second: HindLegLowerRight
+  - first:
+      1: 100024
+    second: HindLegMidLeft
+  - first:
+      1: 100026
+    second: HindLegMidRight
+  - first:
+      1: 100028
+    second: HindLegUpperLeft
+  - first:
+      1: 100030
+    second: HindLegUpperRight
+  - first:
+      1: 100032
+    second: Hip
+  - first:
+      1: 100034
+    second: Mid
+  - first:
+      1: 100036
+    second: Pileus
+  - first:
+      1: 100038
+    second: Root
+  - first:
+      1: 100040
+    second: Stmach
+  - first:
+      1: 100042
+    second: TentacleBack1stLeft
+  - first:
+      1: 100044
+    second: TentacleBack1stRight
+  - first:
+      1: 100046
+    second: TentacleBack2ndLeft
+  - first:
+      1: 100048
+    second: TentacleBack2ndRight
+  - first:
+      1: 100050
+    second: TentacleBack3rdLeft
+  - first:
+      1: 100052
+    second: TentacleBack3rdRight
+  - first:
+      1: 100054
+    second: TentacleBack4thLeft
+  - first:
+      1: 100056
+    second: TentacleBack4thRight
+  - first:
+      1: 100058
+    second: TentacleFront1stLeft
+  - first:
+      1: 100060
+    second: TentacleFront1stRight
+  - first:
+      1: 100062
+    second: TentacleFront2ndLeft
+  - first:
+      1: 100064
+    second: TentacleFront2ndRight
+  - first:
+      1: 100066
+    second: TentacleFront3rdLeft
+  - first:
+      1: 100068
+    second: TentacleFront3rdRight
+  - first:
+      1: 100070
+    second: TentacleFront4thLeft
+  - first:
+      1: 100072
+    second: TentacleFront4thRight
+  - first:
+      4: 400000
+    second: Chest
+  - first:
+      4: 400002
+    second: ForeLegLowerLeft
+  - first:
+      4: 400004
+    second: ForeLegLowerRight
+  - first:
+      4: 400006
+    second: ForeLegMidLeft
+  - first:
+      4: 400008
+    second: ForeLegMidRight
+  - first:
+      4: 400010
+    second: ForeLegUpperLeft
+  - first:
+      4: 400012
+    second: ForeLegUpperRight
+  - first:
+      4: 400014
+    second: //RootNode
+  - first:
+      4: 400016
+    second: FungusRig
+  - first:
+      4: 400018
+    second: Head
+  - first:
+      4: 400020
+    second: HindLegLowerLeft
+  - first:
+      4: 400022
+    second: HindLegLowerRight
+  - first:
+      4: 400024
+    second: HindLegMidLeft
+  - first:
+      4: 400026
+    second: HindLegMidRight
+  - first:
+      4: 400028
+    second: HindLegUpperLeft
+  - first:
+      4: 400030
+    second: HindLegUpperRight
+  - first:
+      4: 400032
+    second: Hip
+  - first:
+      4: 400034
+    second: Mid
+  - first:
+      4: 400036
+    second: Pileus
+  - first:
+      4: 400038
+    second: Root
+  - first:
+      4: 400040
+    second: Stmach
+  - first:
+      4: 400042
+    second: TentacleBack1stLeft
+  - first:
+      4: 400044
+    second: TentacleBack1stRight
+  - first:
+      4: 400046
+    second: TentacleBack2ndLeft
+  - first:
+      4: 400048
+    second: TentacleBack2ndRight
+  - first:
+      4: 400050
+    second: TentacleBack3rdLeft
+  - first:
+      4: 400052
+    second: TentacleBack3rdRight
+  - first:
+      4: 400054
+    second: TentacleBack4thLeft
+  - first:
+      4: 400056
+    second: TentacleBack4thRight
+  - first:
+      4: 400058
+    second: TentacleFront1stLeft
+  - first:
+      4: 400060
+    second: TentacleFront1stRight
+  - first:
+      4: 400062
+    second: TentacleFront2ndLeft
+  - first:
+      4: 400064
+    second: TentacleFront2ndRight
+  - first:
+      4: 400066
+    second: TentacleFront3rdLeft
+  - first:
+      4: 400068
+    second: TentacleFront3rdRight
+  - first:
+      4: 400070
+    second: TentacleFront4thLeft
+  - first:
+      4: 400072
+    second: TentacleFront4thRight
+  - first:
+      74: 7400000
+    second: FungusAttackFourTentacles
+  - first:
+      74: 7400002
+    second: FungusAttackLeftTentacle1
+  - first:
+      74: 7400004
+    second: FungusAttackLeftTentacle2
+  - first:
+      74: 7400006
+    second: FungusAttackRightTentacle1
+  - first:
+      74: 7400008
+    second: FungusAttackRightTentacle2
+  - first:
+      74: 7400010
+    second: FungusAttackRolling
+  - first:
+      74: 7400012
+    second: FungusAttackSpreadSpore
+  - first:
+      74: 7400014
+    second: FungusDown
+  - first:
+      74: 7400016
+    second: FungusDownSpin
+  - first:
+      74: 7400018
+    second: FungusDownToStand
+  - first:
+      74: 7400020
+    second: FungusIdle
+  - first:
+      74: 7400022
+    second: FungusIdleToMimic
+  - first:
+      74: 7400024
+    second: FungusLie
+  - first:
+      74: 7400026
+    second: FungusMimic
+  - first:
+      74: 7400028
+    second: FungusMimicToIdle
+  - first:
+      74: 7400030
+    second: FungusTakeDamage1
+  - first:
+      74: 7400032
+    second: FungusTakeDamage2
+  - first:
+      74: 7400034
+    second: FungusTurnLeft
+  - first:
+      74: 7400036
+    second: FungusTurnRight
+  - first:
+      74: 7400038
+    second: FungusWalk
+  - first:
+      74: 7400040
+    second: FungusWalkToBack
+  - first:
+      74: 7400042
+    second: FungusWalkToLeft
+  - first:
+      74: 7400044
+    second: FungusWalkToRight
+  - first:
+      95: 9500000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: FungusAttackFourTentacles
+      takeName: FungusAttackFourTentacles
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusAttackLeftTentacle1
+      takeName: FungusAttackLeftTentacle1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusAttackLeftTentacle2
+      takeName: FungusAttackLeftTentacle2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusAttackRightTentacle1
+      takeName: FungusAttackRightTentacle1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusAttackRightTentacle2
+      takeName: FungusAttackRightTentacle2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusAttackRolling
+      takeName: FungusAttackRolling
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusAttackSpreadSpore
+      takeName: FungusAttackSpreadSpore
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0.18289787
+        functionName: Shoot
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      - time: 0.9832811
+        functionName: ToggleIsAttacking
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusDown
+      takeName: FungusDown
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusDownSpin
+      takeName: FungusDownSpin
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusDownToStand
+      takeName: FungusDownToStand
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusIdle
+      takeName: FungusIdle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusIdleToMimic
+      takeName: FungusIdleToMimic
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusLie
+      takeName: FungusLie
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusMimic
+      takeName: FungusMimic
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 179
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusMimicToIdle
+      takeName: FungusMimicToIdle
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusTakeDamage1
+      takeName: FungusTakeDamage1
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: 0
+        functionName: FungusBloodPlay
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusTakeDamage2
+      takeName: FungusTakeDamage2
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusTurnLeft
+      takeName: FungusTurnLeft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusTurnRight
+      takeName: FungusTurnRight
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusWalk
+      takeName: FungusWalk
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusWalkToBack
+      takeName: FungusWalkToBack
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusWalkToLeft
+      takeName: FungusWalkToLeft
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: FungusWalkToRight
+      takeName: FungusWalkToRight
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: FungusRig
+        weight: 1
+      - path: FungusRig/Root
+        weight: 1
+      - path: FungusRig/Root/Mid
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperLeft/ForeLegMidLeft/ForeLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/ForeLegUpperRight/ForeLegMidRight/ForeLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperLeft/HindLegMidLeft/HindLegLowerLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/HindLegUpperRight/HindLegMidRight/HindLegLowerRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/Head/Pileus
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thLeft/TentacleBack3rdLeft/TentacleBack2ndLeft/TentacleBack1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleBack4thRight/TentacleBack3rdRight/TentacleBack2ndRight/TentacleBack1stRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thLeft/TentacleFront3rdLeft/TentacleFront2ndLeft/TentacleFront1stLeft
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight
+        weight: 1
+      - path: FungusRig/Root/Mid/Hip/Stmach/Chest/TentacleFront4thRight/TentacleFront3rdRight/TentacleFront2ndRight/TentacleFront1stRight
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  importBlendShapeDeformPercent: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

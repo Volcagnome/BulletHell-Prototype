@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5229125342546719881
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7564497278344631206}
+  - component: {fileID: 8673904453175020698}
+  m_Layer: 0
+  m_Name: PoolManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7564497278344631206
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5229125342546719881}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8673904453175020698
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5229125342546719881}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6ddf764542cb9f4691d1c1614eb323a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxNavMeshSampleDistance: 10
+  prefab_Enemy_SwampChomper: {fileID: 6881435989120686407, guid: 72401eaab116d984aace657b1012b86e,
+    type: 3}
+  prefab_Enemy_SwampSpitter: {fileID: 7354216645762094629, guid: 4e875072aa77fa84bbf70b55ad2d767b,
+    type: 3}
+  prefab_Enemy_SwampMushroom: {fileID: 7956763873270058695, guid: 24f2a372345af8c46b4453a7288c358f,
+    type: 3}
+  prefab_Bullet_PlayerStandard: {fileID: 5795313308542438425, guid: ce5cc8464da668c43b09cd4036b6f6f9,
+    type: 3}
+  prefab_Bullet_PlayerCannon: {fileID: 1273282527624266905, guid: c8e85499413f94045add06bc59073502,
+    type: 3}
+  prefab_Bullet_SwampMushroom: {fileID: 7542185512438636456, guid: d8f2fad627ebf3648aecd8015b251298,
+    type: 3}
+  prefab_Bullet_SwampSpitter: {fileID: 5488780893853138462, guid: d4d2d387c97c934458cf6cbe6408c3e6,
+    type: 3}
+  qty_Bullet_PlayerStandard: 50
+  qty_Bullet_PlayerCannon: 10
+  qty_Bullet_SwampMushroom: 200
+  qty_Bullet_SwampSpitter: 25
+  qty_Enemy_SwampChomper: 20
+  qty_Enemy_SwampSpitter: 15
+  qty_Enemy_SwampMushroom: 10
